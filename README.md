@@ -8,10 +8,10 @@
 
 # 💫 About Me:
 - 🎓 I’m currently pursuing a Bachelor's degree in **Artificial Intelligence (AI)** at **FAST-NUCES**.
-- 🔭 I’m currently working on **a Solo-Project named TalimBridge.**
-- 👯 I’m looking to collaborate on **this Solo-Project.**
-- 🌱 I’m currently learning **Jenkins, Docker, Git-Lab**
-- 💬 Ask me anything about **Dart & Flutter.**
+- 🔭 I’m right now working on **a Solo-Project** named **TalimBridge**.
+- 👯 I’m looking to collaborate on this **Solo-Project**.
+- 🌱 I’m learning **Jenkins, Docker, Git-Lab**.
+- 💬 Ask me anything about **Dart & Flutter**.
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-lashari-826761289/)
