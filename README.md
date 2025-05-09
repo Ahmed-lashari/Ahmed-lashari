@@ -51,6 +51,8 @@
 ---
 
 ### 🌐 Backend & APIs
+![Dio Package](https://img.shields.io/badge/dio-007AFF?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
