@@ -81,6 +81,7 @@
 ### 🧰 IDEs & Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android-Studio](https://img.shields.io/badge/androidstudio-%23FFFFFF.svg?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Xcode](https://img.shields.io/badge/xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ---
