@@ -7,9 +7,8 @@
 
 
 # 💫 About Me:
-- 🎓 I’m currently pursuing a Bachelor's degree in **Artificial Intelligence (AI)** at **FAST-NUCES**.
-- 🔭 I’m right now working on **a Solo-Project** named **TalimBridge**.
-- 👯 I’m looking to collaborate on this **Solo-Project**.
+- 🔭 I’m Flutter Developer with over 2 years of experience.
+- 🎓 I’m currently pursuing a Bachelor's degree in **Artificial Intelligence** at **FAST-NUCES**.
 - 🌱 I’m learning **Jenkins, Docker, Git-Lab**.
 - 💬 Ask me anything about **Dart & Flutter**.
 
