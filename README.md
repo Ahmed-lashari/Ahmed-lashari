@@ -6,8 +6,10 @@
 </h3>
 
 
-# 💫 About Me:
-### ***I’m Flutter Developer with over 2 years of experience. My name is Ahmed and i am currently pursuing a Bachelor's degree in **Artificial Intelligence** at **FAST-NUCES**. Ask me anything about **Dart & Flutter**.***
+## 💫 About Me:
+
+ *I’m Flutter Developer with over 2 years of experience. My name is Ahmed and i am currently pursuing a Bachelor's degree in **Artificial Intelligence** at **FAST-NUCES**. Ask me anything about **Dart & Flutter**.*
+
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-lashari-826761289/)
