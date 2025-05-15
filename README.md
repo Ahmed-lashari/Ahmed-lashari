@@ -48,7 +48,6 @@
 
 ### 🌐 Backend & APIs
 ![Dio Package](https://img.shields.io/badge/dio-007AFF?style=for-the-badge&logo=flutter&logoColor=white)
-
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -88,6 +87,20 @@
 ![Project Mapping](https://img.shields.io/badge/Project_Mapping-6C63FF?style=for-the-badge&logo=mapbox&logoColor=white)
 
 
+## 📊 GitHub Stats:
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-lashari&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+</div>
 
 
 ### ***I'm always excited to connect with fellow developers and learn new things! Feel free to reach out if you want to chat about tech, Flutter, or anything else. Have a wonderful day of coding! 🚀***
