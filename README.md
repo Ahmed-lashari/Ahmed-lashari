@@ -7,7 +7,9 @@
 
 
 ## 💫 About Me:
-### I’m Flutter Developer with over 2 years of experience. My name is Ahmed and i am currently pursuing a Bachelor's degree in **Artificial Intelligence** at **FAST-NUCES**. Ask me anything about **Dart & Flutter**.
+<h3 align="center">
+ I’m Flutter Developer with over 2 years of experience. My name is Ahmed and i am currently pursuing a Bachelor's degree in Artificial Intelligence at FAST-NUCES. Ask me anything about Dart & Flutter.
+</h3>
 
 
 ## 📬 Connect with me:
@@ -88,20 +90,15 @@
 ![Project Mapping](https://img.shields.io/badge/Project_Mapping-6C63FF?style=for-the-badge&logo=mapbox&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats:  
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-lashari&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-lashari&theme=light&hide_border=true" />
+</div>
 
-### ***I'm always excited to connect with fellow developers and learn new things! Feel free to reach out if you want to chat about tech, Flutter, or anything else. Have a wonderful day of coding! 🚀***
+<h3 align="center">
+ I'm always excited to connect with fellow developers and learn new things! Feel free to reach out if you want to chat about tech, Flutter, or anything else. Have a wonderful day of coding! 🚀
+</h3>
