@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there 👋,   I'm Muhammad Ahmed Lashari  
+  Hey there 👋,  I'm Muhammad Ahmed Lashari  
 </h1>
 <h3 align="center">
  An aspiring Android/iOS Flutter developer from Pakistan.
@@ -89,6 +89,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Project Mapping](https://img.shields.io/badge/Project_Mapping-6C63FF?style=for-the-badge&logo=mapbox&logoColor=white)
 
+---
 
 ### GitHub Stats:  
 <div align="center">
