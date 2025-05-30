@@ -100,6 +100,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-lashari&theme=light&hide_border=true" />
 </div>
 
+
 <h3 align="center">
  I'm always excited to connect with fellow developers and learn new things! Feel free to reach out if you want to chat about tech, Flutter, or anything else. Have a wonderful day of coding! 🚀
 </h3>
