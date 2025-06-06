@@ -1,9 +1,9 @@
 <h2 align="center">
   Hey there 👋,  I'm Muhammad Ahmed Lashari  
 </h2>
-<h4 align="center">
+<h3 align="center">
  An aspiring Android/iOS Flutter developer from Pakistan.
-</h4>
+</h3>
 
 
 ### About Me:
