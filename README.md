@@ -34,6 +34,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-3C873A?style=flat-square&logo=leaflet&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-01579B?style=flat-square&logo=dart&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=flat-square&logo=code&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E293B?style=flat-square&logo=structure&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-121212?style=flat-square&logo=postman&logoColor=orange)
