@@ -2,13 +2,13 @@
   Hey there 👋,  I'm Muhammad Ahmed Lashari  
 </h2>
 <h3 align="center">
- An aspiring Android/iOS Flutter developer from Pakistan.
+ An experienced Android/iOS Flutter developer.
 </h3>
 
 
 ### About Me:
 <h4 align="center">
- I’m Flutter Developer with over 2 years of experience. Currently pursuing a Bachelor's degree in Artificial Intelligence at FAST-NUCES. Ask me anything about Dart & Flutter.
+ AI undergrad at FAST-NUCES with a focus on machine learning and problem-solving. Flutter developer — published a <a href="https://pub.dev/packages/animated_bubble_navigation_bar">dart package</a> on pub.dev and contributed to real-world apps. Balancing academic AI work with hands-on experience through internships and scalable mobile projects.
 </h4>
 
 
