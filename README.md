@@ -1,114 +1,70 @@
 <h2 align="center">
-  Hey there 👋,  I'm Muhammad Ahmed Lashari  
+  Hey there, I'm Muhammad Ahmed Lashari  
 </h2>
-<h3 align="center">
- An experienced Android/iOS Flutter developer.
-</h3>
 
-
-### About Me:
 <h4 align="center">
- AI undergrad at FAST-NUCES with a focus on machine learning and problem-solving. Flutter developer — published a <a href="https://pub.dev/packages/animated_bubble_navigation_bar">dart package</a> on pub.dev and contributed to real-world apps. Balancing academic AI work with hands-on experience through internships and scalable mobile projects.
+  AI undergrad (5th semester) diving deep into intelligent systems & machine learning 
+  and building beautiful apps with Flutter along the way.
 </h4>
 
-
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-lashari-826761289/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedlashari.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmed-lashari)
-
-### My Tech Stack
-
-#### Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 ---
 
-#### Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-3C873A?style=flat-square&logo=leaflet&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-01579B?style=flat-square&logo=dart&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=flat-square&logo=code&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E293B?style=flat-square&logo=structure&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-121212?style=flat-square&logo=postman&logoColor=orange)
-
----
-
-#### Databases
-![Hive](https://img.shields.io/badge/Hive-F3CD00?style=flat-square&logo=hive&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-#### Backend & APIs
-![Dio Package](https://img.shields.io/badge/dio-007AFF?style=flat-square&logo=flutter&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat-square&logo=deno&logoColor=white)
-
----
-
-#### Data Science & Visualization
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=bugcrowd&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-FF5722?style=flat-square&logo=googleanalytics&logoColor=white)
-![FCM](https://img.shields.io/badge/FCM-039BE5?style=flat-square&logo=google-messages&logoColor=white)
-
----
-
-#### IDEs & Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android-Studio](https://img.shields.io/badge/androidstudio-%23FFFFFF.svg?style=flat-square&logo=androidstudio&logoColor=black)
-![Xcode](https://img.shields.io/badge/xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
-
----
-
-#### Others
-![Lottie](https://img.shields.io/badge/Lottie-00BCD4?style=flat-square&logo=lottie&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![Project Mapping](https://img.shields.io/badge/Project_Mapping-6C63FF?style=flat-square&logo=mapbox&logoColor=white)
-
----
-
-#### GitHub Stats:  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
+### Connect with me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-lashari&show_icons=true&theme=light&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-lashari&theme=light&hide_border=true" />
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-lashari-826761289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedlashari.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ahmed-lashari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
+---
 
+### Tech Stack
 
-<h4 align="center">
- I'm always excited to connect with fellow developers and learn new things! Feel free to reach out if you want to chat about tech, Flutter, or anything else. Have a wonderful day of coding! 🚀
-</h4>
+#### Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-3C873A?style=flat-square&logo=leaflet&logoColor=white)
+![BLoC](https://img.shields.io/badge/Bloc-01579B?style=flat-square&logo=dart&logoColor=white)
+
+#### Databases & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+#### APIs & Networking
+![Dio](https://img.shields.io/badge/Dio-007AFF?style=flat-square&logo=flutter&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat-square&logo=android&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### Workflow & Tools
+![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=flat-square&logo=code&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E293B?style=flat-square&logo=structure&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=flat-square&logo=scrumalliance&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=light&hide_border=true&layout=compact" />
+</div>
