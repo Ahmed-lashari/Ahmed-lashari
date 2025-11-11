@@ -3,8 +3,8 @@
 </h2>
 
 <h4 align="center">
-  AI undergrad (5th semester) diving deep into intelligent systems & machine learning 
-  and building beautiful apps with Flutter along the way.
+  AI undergrad (5th semester) exploring intelligent systems & machine learning.
+Building clean, thoughtful apps with Flutter and the MERN stack.
 </h4>
 
 ---
@@ -48,7 +48,7 @@
 ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-3C873A?style=flat-square&logo=leaflet&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-01579B?style=flat-square&logo=dart&logoColor=white)
-![Hooks](https://img.shields.io/badge/Hooks-FF69B4?style=flat-square&logo=react&logoColor=white)
+<!-- ![Hooks](https://img.shields.io/badge/Hooks-FF69B4?style=flat-square&logo=react&logoColor=white) -->
 
 #### Architectures
 ![MVC](https://img.shields.io/badge/MVC-0F172A?style=flat-square&logo=code&logoColor=white)
@@ -65,7 +65,7 @@
 ![Hive](https://img.shields.io/badge/Hive-F6A609?style=flat-square&logo=hive&logoColor=white)
 ![Neo4j AuraDB](https://img.shields.io/badge/Neo4j-A9CCE3?style=flat-square&logo=neo4j&logoColor=black)
 
-### Backend & APIs
+#### Backend & APIs
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005C97?style=flat-square&logo=http&logoColor=white)
 ![Dio](https://img.shields.io/badge/Dio-007AFF?style=flat-square&logo=flutter&logoColor=white)
@@ -75,34 +75,34 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
 
-### Web & UI
+#### Web & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Operating Systems
+#### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-### Tools & IDEs
+#### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-### Learning & Exploring
+#### Learning & Exploring
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat-square&logo=huggingface&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0F172A?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)-->
 
 
 ### GitHub Stats
