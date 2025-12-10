@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
-  AI undergrad (5th semester) exploring intelligent systems & machine learning.
+  An AI undergrad, exploring intelligent systems & machine learning.
 Building clean, thoughtful apps with Flutter and the MERN stack.
 </h4>
 
