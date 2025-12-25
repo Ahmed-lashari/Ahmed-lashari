@@ -105,9 +105,9 @@ Building clean, thoughtful apps with Flutter and the MERN stack.
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)-->
 
 
-### GitHub Stats
+<!-- ### GitHub Stats
 ![Views](https://ghtb-counter.vercel.app/api/counter?username=ahmed-lashari&label=Views&color=778873&labelColor=555555&labelBgColor=eeeeee&countColor=ffffff&style=flat)
 
 ![Ahmed-lashari's Top Languages](https://githfub-readme-stats.vercel.app/api/top-langs/?username=ahmed-lashari&theme=default&show_icons=true&hide_border=true&layout=compact)
-
+-->
 
