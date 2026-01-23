@@ -1,25 +1,24 @@
-<h2 align="center">
-  Hey there, I'm Muhammad Ahmed Lashari  
-</h2>
+<h3 align="left">
+  I'm Ahmed Lashari. An AI undergrad & Hobbiest Dev.
+</h3>
 
-<h4 align="center">
-  An AI undergrad, exploring intelligent systems & machine learning.
-Building clean, thoughtful apps with Flutter and the MERN stack.
-</h4>
+<!-- <h4 align="center">
+  
+</h4> -->
 
 ---
 
-### Connect with me
-<p align="center">
+<h4> Socials </h4>
+<p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ahmed-lashari-826761289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedlashari.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ahmed-lashari">
+  <!-- <a href="https://github.com/Ahmed-lashari">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
