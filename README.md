@@ -1,6 +1,6 @@
-<h3 align="left">
+<h4 align="left">
   I'm Ahmed Lashari. An AI undergrad & Hobbiest Dev.
-</h3>
+</h4>
 
 <!-- <h4 align="center">
   
@@ -20,6 +20,16 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a> -->
 </p>
+
+---
+
+<h4> Shipped Projects </h4>
+
+[![Moodify](https://img.shields.io/badge/Moodify-Live-brightgreen?style=for-the-badge&logo=vercel)](https://moodify-lyrics.vercel.app/)
+> NLP Textual Tone Analyzer
+
+[![ATSense](https://img.shields.io/badge/ATSense-Under_Development-yellow?style=for-the-badge&logo=github)](https://atsense.vercel.app/)
+> ATS Tracker Engine
 
 ---
 
