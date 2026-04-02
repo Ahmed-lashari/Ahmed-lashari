@@ -25,7 +25,7 @@
 
 <h4> Shipped Projects </h4>
 
-[![ATSense](https://img.shields.io/badge/ATSense-Live-yellow?style=for-the-badge&logo=github)](https://atsense.vercel.app/)
+[![ATSense](https://img.shields.io/badge/ATSense-Live-yellow?style=for-the-badge&logo=vercel)](https://atsense.vercel.app/)
 > ATS Tracker Engine
 
 [![Moodify](https://img.shields.io/badge/Moodify-Live-brightgreen?style=for-the-badge&logo=vercel)](https://moodify-lyrics.vercel.app/)
