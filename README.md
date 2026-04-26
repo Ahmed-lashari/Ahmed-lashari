@@ -25,13 +25,10 @@
 
 <h4> Shipped Projects </h4>
 
-[![ATSense](https://img.shields.io/badge/ATSense-Live-yellow?style=for-the-badge&logo=vercel)](https://atsense.vercel.app/)
-> ATS Tracker Engine
-
-[![Moodify](https://img.shields.io/badge/Moodify-Live-brightgreen?style=for-the-badge&logo=vercel)](https://moodify-lyrics.vercel.app/)
-> NLP Textual Tone Analyzer
-
-
+| Project   | Link | Description |
+|-----------|------|------------|
+| **ATSense** | [![Live](https://img.shields.io/badge/ATSense-Live-yellow?style=for-the-badge&logo=vercel)](https://atsense.vercel.app/) | Resume analysis tool that checks how well it can be parsed by ATS systems. |
+| **Moodify** | [![Live](https://img.shields.io/badge/Moodify-Live-brightgreen?style=for-the-badge&logo=vercel)](https://moodify-lyrics.vercel.app/) | NLP/ML-based app that predicts the tone and mood of song lyrics provided by the user. |
 
 ---
 
