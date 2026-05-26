@@ -27,7 +27,7 @@
 
 | Project | Link | Description |
 |---------|------|------------|
-| **MediAssistOCR** | <div align="center">[![MediAssistOCR](https://img.shields.io/badge/MediAssistOCR-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Ahmed-lashari/CNN-RNN-handwriting-OCR)</div> | DL-OCR pipeline for handwritten medicine recognition using CNN feature extraction and sequence modeling with SimpleRNNs. |
+| **MediAssistOCR** | <div align="center">[![MediAssist](https://img.shields.io/badge/MediAssist-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Ahmed-lashari/CNN-RNN-handwriting-OCR)</div> | DL-OCR pipeline for handwritten medicine recognition using CNN feature extraction and sequence modeling with SimpleRNNs. |
 | **ATSense** | <div align="center">[![ATSense](https://img.shields.io/badge/ATSense-Live-yellow?style=for-the-badge&logo=vercel)](https://atsense.vercel.app/)</div> | Resume analysis tool that checks how well it can be parsed by ATS systems. |
 | **Moodify** | <div align="center">[![Moodify](https://img.shields.io/badge/Moodify-Live-brightgreen?style=for-the-badge&logo=vercel)](https://moodify-lyrics.vercel.app/)</div> | NLP/ML-based app that predicts the tone and mood of song lyrics provided by the user. |
 
